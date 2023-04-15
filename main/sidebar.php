@@ -26,6 +26,7 @@ if (!isset($_SESSION['l_email']) && !isset($_SESSION['user_name'])) {
             <a href="../stocks/view_books.php"><i class="fa fa-fw fa-eye"></i> View Books</a><br>
             <a href="../backup/backup.php"><i class="fa fa-fw fa-download"></i> Backup</a>
             <a href="../login/logout.php"><i class="fa fa-fw fa-sign-out"></i> Logout</a><br><br>
+            <a href="https://freecodeclass.me/" style="align-content: center; color:#999999; font-size: 14px;">&copy; www.freecodeclass.me</a>
         </div>
     </body>
 </html>
